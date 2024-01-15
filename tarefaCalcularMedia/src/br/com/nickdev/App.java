@@ -1,4 +1,8 @@
 package br.com.nickdev;
+/**
+ *
+ * @author nicolas.santos
+ */
 
 public class App {
 
