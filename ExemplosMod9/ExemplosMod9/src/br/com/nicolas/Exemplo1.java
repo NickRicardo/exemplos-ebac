@@ -19,5 +19,7 @@ public class Exemplo1 {
         char letra = Character.valueOf('A');
 
         int indade2 = Integer.valueOf(12);
+
+        //casting
     }
 }
