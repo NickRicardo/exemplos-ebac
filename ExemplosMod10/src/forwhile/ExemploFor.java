@@ -21,6 +21,6 @@ public class ExemploFor {
             System.out.println("Linha " + i);
         }
 
-        valores.forEach(integer -> System.out.println("Linha " + integer));
+        valores.forEach( integer -> System.out.println("Linha " + integer));
     }
 }
